@@ -10,10 +10,10 @@ The basic problem is this: is there a difference in a car's performance when it 
 The aim is to save the company money by using the most cost-efficient type of fuel. E10 is cheaper, but the company suspects that SP98 gets a better performance. 
 
 
-### Table of contents
+### Contents
 
-In the Jupyter notebook in this repository, you can find the steps of cleaning, exploring, and building models. 
-The folder 'data' contains the raw data (in csv and excel formats)
+- In the Jupyter notebook in this repository, you can find the steps of cleaning, exploring, and building models. 
+- The folder 'data' contains the raw data (in csv and excel formats)
 
 
 ### Conclusions
