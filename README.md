@@ -7,6 +7,8 @@ Rik Peters, January 2023.
 
 The basic problem is this: is there a difference in a car's performance when it runs on SP98 as opposed to E10? 
 
+The aim is to save the company money by using the most cost-efficient type of fuel. E10 is cheaper, but the company suspects that SP98 gets a better performance. 
+
 
 ### Table of contents
 
